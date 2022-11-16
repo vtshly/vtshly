@@ -2,12 +2,18 @@
 
 > I decided to create a new github account to replace the [old one](https://github.com/strannik46). There were only commits to private repositories anyway.
 
-Here's what's interesting in my repos:
+Here's what's interesting in my Github activity:
+
+## QA-utilities
+* I created a repo with my [QA-utilities](https://github.com/vtshly/QA-utilities) developments from my previous job at fintech company
+
+
+## My Bug-reports and PR to Open-Source software
 * [Bug report](https://github.com/logseq/logseq/issues/5682) created by me to [logseq](https://github.com/logseq/logseq) (Free Open Source Note-taking Software)
 * Another my [Bug report](https://github.com/vyleung/logseq-time-tracker-plugin/issues/8) this time for logseq plugin (time-tracker)
 * Opened PR for [awesome-dendron](https://github.com/dendronhq/awesome-dendron) repo with useful links for vs-code note-taking system [dendron](https://www.dendron.so/)
 
-I also want to create a new repo with my QA-utilits developments from my previous job at fintech company
+
 
 
 <!--
