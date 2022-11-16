@@ -9,8 +9,8 @@ Here's what's interesting in my Github activity:
 
 
 ## My Bug-reports and PR to Open-Source software
-* [Bug report](https://github.com/logseq/logseq/issues/5682) created by me to [logseq](https://github.com/logseq/logseq) (Free Open Source Note-taking Software)
-* Another my [Bug report](https://github.com/vyleung/logseq-time-tracker-plugin/issues/8) this time for logseq plugin (time-tracker)
+* [Bug report](https://github.com/logseq/logseq/issues/5682) to [logseq](https://github.com/logseq/logseq) (Free Open Source Note-taking Software)
+* Another [Bug report](https://github.com/vyleung/logseq-time-tracker-plugin/issues/8) this time for logseq plugin (time-tracker)
 * Opened PR for [awesome-dendron](https://github.com/dendronhq/awesome-dendron) repo with useful links for vs-code note-taking system [dendron](https://www.dendron.so/)
 
 
